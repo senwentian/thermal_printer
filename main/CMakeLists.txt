@@ -1,2 +1,2 @@
-idf_component_register(SRCS "stepper_motor_driver.c"
+idf_component_register(SRCS "driver.c"
                     INCLUDE_DIRS ".")
